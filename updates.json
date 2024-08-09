@@ -1,0 +1,12 @@
+{
+    "files": [
+        {
+            "name": "file1.pak",
+            "url": "http://drflash.github.io/file1.pak"
+        },
+        {
+            "name": "file2.pak",
+            "url": "http://drflash.github.io/files/file2.pak"
+        }
+    ]
+}
